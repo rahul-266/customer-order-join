@@ -1,0 +1,10 @@
+# SBT
+target/
+project/target/
+
+# Metals / BSP
+.bsp/
+
+# Logs and generated output
+*.log
+join-output.txt
